@@ -1,0 +1,153 @@
+.frintimage{
+    height: 380;
+}
+
+.bg-image{
+    height: 100%; width: 100%;
+}
+
+.carousel-caption{
+    position: absolute; height: 550px;
+}
+
+.carousel-caption .carousel-item{
+    margin-top: 0em; margin-left: -25em;
+}
+
+.A{
+    margin-left: 40em;
+}
+
+.A .select_globe{
+    position: absolute; padding: 20px 0px 0px 50px;
+}
+
+.A .select{
+    margin-top: 1em; height: 2em; width: 8em; padding-left: 39px; background: none; border: 2px solid aliceblue; color: aliceblue; border-radius: 5px;
+}
+
+
+
+.C{
+    font-size: 50px;
+}
+
+.D{
+    font-size: 28px; margin-top: 1em; margin-left: 8em;
+}
+
+.E{
+    font-size: 23px; margin-top: 1em; margin-left: 4em;
+}
+
+.F{
+    display: inline-block; height: 3em; width: 20em; font-size: 20px; margin-left: 8em; background: transparent; border-radius: 5px; border: 1px solid white; padding: 20px;
+}
+
+.hr{
+    background-color: grey; height: 10px; margin-top: 0px;
+}
+
+.H{
+    height: 600px; width: 1210px; border: 2px solid black; background-color: black;
+}
+.H .h{
+    display: inline-block; height: 230px; width: 550px; border: 2px solid black; margin-top: 10em; margin-left: 30px;
+}
+
+.H .I{
+    display: inline-block; height: 400px; width:500px; 
+}
+
+.J{
+    height: 600px; width: 1210px; border: 2px solid black; background-color: black; 
+}
+
+.J .I{
+    display: inline-block; height: 400px; width:500px; 
+}
+
+.I .VV{
+    height: 5em;
+              width: 20em; border-radius: 10px;
+              border: 2px solid white; background-color: black;
+              margin-top: 17em;
+              margin-left: 6em; align-items: center; display: inline-block;
+}
+
+.J .j{
+    height: 230px; width: 550px; border: 2px solid black; margin-top: 0em; display: inline-block;
+}
+
+.K{
+    height: 600px; width: 1210px; border: 2px solid black; background-color: black;
+}
+
+.K .k{
+    display: inline-block; height: 230px; width: 550px; border: 2px solid black; margin-top: 10em; margin-left: 30px;
+}
+
+.K .I{
+    display: inline-block; height: 400px; width:500px; 
+}
+
+.L{
+    height: 600px; width: 1210px; border: 2px solid black; background-color: black;
+}
+
+.L .I{
+    display: inline-block; height: 400px; width:500px;
+}
+
+.L .l{
+    height: 230px; width: 550px; border: 2px solid black; margin-top: 10em; display: inline-block;
+}
+
+.a{
+    color: aliceblue; font-size: 24px;
+}
+
+.acc{
+    height: 800px; width: 1150px; border: 2px solid black; margin-top: 2em; margin-left: 2em;
+}
+
+.acc .accordion{
+
+}
+
+.acc .accordion .accordion-item{
+    border: 2px solid black; background-color: black;
+}
+
+.acc .accordion .accordion-item .accordion-header{
+    margin-top: 10px;
+}
+
+.acc .accordion .accordion-item .accordion-header .accordion-button{
+    font-size: 30px;
+    box-shadow: none;
+}
+
+.acc .accordion .accordion-item .accordion-collapse{
+
+}
+
+.acc .accordion .accordion-item .accordion-collapse .accordion-body{
+    background-color:  black; border: 1px solid black; font-size: 25px; color: aliceblue; 
+}
+
+.acc .n{
+    margin-top: 20px; margin-left: 10em;
+}
+
+.acc .n .O{
+    font-size: 23px; margin-top: 1em; color: aliceblue;
+}
+
+.N{
+    height: 450px; width: 1210px; border: 2px solid black; background-color: black;
+}
+
+.N .p{
+    height: 300px; width: 900px; margin-top: 5em; margin-left: 9em;
+}
